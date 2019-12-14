@@ -1,10 +1,12 @@
 # Dmap
 - Domain Mapper can find domains
 - Domain Mapper can find canonical records of domains
-- Domain Mapper have 16 Engines to extract Domains
+
+# Engines
+- 16 Engines to extract domains and canonical records
 
 # Installation
-./installer.sh
+- ./installer.sh
 
 # Interface
 - ./interface.sh
