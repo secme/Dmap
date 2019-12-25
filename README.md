@@ -5,12 +5,8 @@
 # Engines
 - 16 Engines to extract domains and canonical records
 
-# Installation
-- ./installer.sh
-
 # Interface
 - ./interface.sh
-- Enter in terminal: dmap, anywhere in system (after installation)
 
 # ScreenShot
 <div align="center">
