@@ -7,14 +7,23 @@
 
 # How to run?
 cd Dmap
+
 chmod u+x *
+
 chmod u+x ./
+
 sudo ln -fsT ./Vasl/vasl.py /usr/bin/vasl
+
 chmod u+x ./Vasl/vasl.py
+
 chmod u+x ./Vasl/cleaner.sh
+
 sudo chmod u+x /usr/bin/vasl
+
 sudo cpan Mojolicious
+
 sudo cpan Data::Validate::Domain
+
 ./interface.sh
 
 # ScreenShot
