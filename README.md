@@ -5,7 +5,9 @@
 # Engines
 - 16 Engines to extract domains and canonical records
 
-# Interface
+# How to run?
+- chmod u+x *
+- chmod u+x ./
 - ./interface.sh
 
 # ScreenShot
